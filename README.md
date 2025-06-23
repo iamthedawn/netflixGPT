@@ -14,7 +14,6 @@
      - Trailer in Bg
      - Title & Description
      - Movie suggestions
-      - 
 - NetflixGPT
  - Search Bar
  - Movie Suggestions
