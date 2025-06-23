@@ -1,6 +1,8 @@
 # Netflix GPT
 - CRA proj
 - Tailwind configured
+- Header
+- Login form
 
 # Features
 - Login & Signup page

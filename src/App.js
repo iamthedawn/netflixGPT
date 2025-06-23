@@ -1,8 +1,7 @@
-import logo from "./logo.svg";
-import "./App.css";
+import Body from "./components/Body";
 
 const App = () => {
-  return <div className="text-red-900 text-2xl font-bold">hello world</div>;
+  return <Body />;
 };
 
 export default App;
