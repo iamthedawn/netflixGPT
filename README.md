@@ -3,6 +3,12 @@
 - Tailwind configured
 - Header
 - Login form
+- Sign up form 
+- form validation
+- useRef Hook
+- Firebase setup
+- Deploying our app to production
+- Create signup user account
 
 # Features
 - Login & Signup page
