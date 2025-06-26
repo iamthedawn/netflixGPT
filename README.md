@@ -35,7 +35,15 @@
 - made custom Hooks
 - GPT search feature
 - Multi lang feature in app
-- 
+- get open ai api key
+- gpt search api call
+- fetched gptMovieSuggestions from tmdb
+- created gptSlice added data
+- memoization
+- added .env file
+- added .env file to .gitignore
+- made website responsive
+
 
 
 
