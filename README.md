@@ -32,7 +32,10 @@
 - Build Movioe List
 - Build Movie Card
 - TMDB image CDN URL
-- made custom Hooks 
+- made custom Hooks
+- GPT search feature
+- Multi lang feature in app
+- 
 
 
 

@@ -44,7 +44,6 @@ const Login = () => {
     // sign In/sign Up
     if (!isSignInForm) {
       // sign up logic
-      console.log("sign up logic here");
       createUserWithEmailAndPassword(
         auth,
         email.current.value,
