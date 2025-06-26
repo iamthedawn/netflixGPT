@@ -28,6 +28,12 @@
 - Update store with trailer Video Data
 - Embedded the Youtube Video and make it autoplay amd mute
 - Tailwind classes to style Main Container
+- Build Secondary component
+- Build Movioe List
+- Build Movie Card
+- TMDB image CDN URL
+- made custom Hooks 
+
 
 
 
